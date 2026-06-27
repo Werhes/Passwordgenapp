@@ -1,2 +1,2 @@
 # Passwordgenapp
-Генератор паролей на pythin с gui 
+Генератор паролей на python с gui 
